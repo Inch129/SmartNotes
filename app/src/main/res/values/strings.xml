@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Умные заметки</string>
+    <integer name="com_vk_sdk_AppId">5688495</integer>
+    <string name="add_item">Добавить заметку</string>
+    <string name="header_name">Заголовок</string>
+    <string name="body_content">Текст заметки</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="importance">Важность</string>
+    <string name="time">Время</string>
+    <string name="header">Заголовок</string>
+    <string name="delete_item">удалить</string>
+</resources>

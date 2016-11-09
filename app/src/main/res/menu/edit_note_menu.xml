@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.EditingNote">
+
+    <item
+        android:id="@+id/importFile"
+        android:orderInCategory="1"
+        android:title="import"
+        android:icon="@drawable/ic_file_download_white_24dp"
+        app:showAsAction="always">
+
+
+    </item>
+
+    <item
+        android:id="@+id/delete_note"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:orderInCategory="2"
+        android:title="@string/delete_item"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+
+</menu>
